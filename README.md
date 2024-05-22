@@ -1,6 +1,6 @@
 # http-server-auth: a command-line http server with basic auth
 
-`http-server-auth` is a simple, zero-configuration command-line http server.  It is powerful enough for production usage, but it's simple and hackable enough to be used for testing, local development, and learning.
+`http-server-auth` is a simple, zero-configuration command-line http server with auth.
 
 # Installing globally:
 
