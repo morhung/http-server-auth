@@ -1,0 +1,31 @@
+{
+  "name": "http-server-auth",
+  "version": "1.0.0",
+  "description": "A simple HTTP server with Basic Authentication",
+  "main": "./lib/http-server-auth.js",
+  "bin": {
+    "http-server-auth": "./lib/http-server-auth.js"
+  },
+  "scripts": {
+    "start": "node ./lib/http-server-auth.js",
+    "http-server-auth": "node ./lib/http-server-auth.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morhung/http-server-auth.git"
+  },
+  "keywords": [
+    "http",
+    "server",
+    "basic-auth",
+    "authentication"
+  ],
+  "author": "hungnd",
+  "license": "ISC",
+  "dependencies": {
+    "basic-auth": "^2.0.1",
+    "commander": "^8.0.0",
+    "express": "^4.17.1"
+  }
+}
+
