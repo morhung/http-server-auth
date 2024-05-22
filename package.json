@@ -1,6 +1,6 @@
 {
   "name": "http-server-auth",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple HTTP server with Basic Authentication",
   "main": "./lib/http-server-auth.js",
   "bin": {
