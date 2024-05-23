@@ -18,7 +18,7 @@ This will install `http-server-auth` globally so that it may be run from the com
 
 N.B : If you use special chars and passing it using arguments, you must mind to escape them. 
 
-    http-server-auth --username admin --password password -p 1234
+    http-server-auth --username admin --password password -P 1234
 
 # Installing as a node app
 
